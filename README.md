@@ -50,4 +50,4 @@ I will continue my improvement and insight of css
 
 ## Acknowledgments
 
-I would like to thank Toluwani Praise[Adeleke-ops](https://github.com/Adeleke-ops) fpr his help and insight in creating this webpage.
+I would like to thank Toluwani Praise [Adeleke-ops](https://github.com/Adeleke-ops) for his help and insight in creating this webpage.
